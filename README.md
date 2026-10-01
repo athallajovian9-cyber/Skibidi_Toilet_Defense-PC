@@ -21,4 +21,4 @@ Download from [Releases](../../releases). No installer.
 
 ## Disclaimer
 
-This is a system tweak. It changes real Windows settings. Read what it does before running it, and use the tool's own restore option if something behaves unexpectedly. Provided as is, with no warranty.
+This repository publishes no software. Nothing here runs.
