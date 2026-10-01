@@ -1,23 +1,16 @@
 # Skibidi Toilet Defense - PC (moved)
 
-**This repository is a redirect.** The PC build now lives in the WinOs repo.
+**This repository is a redirect.** The PC build lives here instead:
 
-**Official source:** this repository, and the [Vortex Industries Discord](https://discord.gg/QtyBucygQ6). Anything found elsewhere is not ours and has not been checked.
+**https://github.com/athallajovian9-cyber/Skibidi_Toilet_Defense_WinOs**
 
-## Install
+Nothing is published here - no releases, no downloads, no source. The two PowerShell
+scripts this repository carries are restore helpers from the move itself, not part of
+the game.
 
-Download from [Releases](../../releases). No installer.
-
-## What it does
-
-- Nothing is published here
-- The current PC release is https://discord.gg/QtyBucygQ6 ... actually: https://github.com/athallajovian9-cyber/Skibidi_Toilet_Defense_WinOs
-
-## Notes
-
-- Portable. Nothing is written outside your user profile.
-- The source sits in this repo next to the build.
-- Questions and bug reports: the [Discord](https://discord.gg/QtyBucygQ6), in `#help` and `#bug-reports`.
+**Official source:** the WinOs repository linked above, and the
+[Vortex Industries Discord](https://discord.gg/QtyBucygQ6). Anything found elsewhere is
+not ours and has not been checked.
 
 ## Disclaimer
 
